@@ -1,0 +1,1 @@
+# SiraInjector.DiscordPlugins
