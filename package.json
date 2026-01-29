@@ -1,0 +1,21 @@
+{
+  "name": "streakplugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "dev": "tsc && node app.js",
+    "clean": "tsc --build --clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^25.1.0",
+    "eslint": "^9.39.2",
+    "typescript": "^5.9.3"
+  }
+}
