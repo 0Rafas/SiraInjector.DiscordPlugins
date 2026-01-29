@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="LoveStreakPlugin/LoveStreakPlugin.csproj" />
-  <Project Path="StreakPlugin/StreakPlugin.esproj">
-    <Build />
-    <Deploy />
-  </Project>
-</Solution>
