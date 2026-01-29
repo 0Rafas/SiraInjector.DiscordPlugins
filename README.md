@@ -1,6 +1,6 @@
 # Discord Plugin Injector
 
-[![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/YOUR_REPO/total?style=for-the-badge&logo=github&label=Downloads )](https://github.com/YOUR_USERNAME/YOUR_REPO/releases )
+[![Downloads](https://img.shields.io/github/downloads/0Rafas/SiraInjector.DiscordPlugins/total?style=for-the-badge&logo=github&label=Downloads )]((https://github.com/0Rafas/SiraInjector.DiscordPlugins/releases/tag/SiraDiscordPluginsInjector) )
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge )](https://opensource.org/licenses/MIT )
 [![C#](https://img.shields.io/badge/Language-C%23-blueviolet?style=for-the-badge&logo=c-sharp )](https://docs.microsoft.com/en-us/dotnet/csharp/ )
 
